@@ -1,4 +1,4 @@
-# Awesome Embedded Systmes [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+# Awesome Embedded Systems [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
 <div align="center"><img width="500" src="embedded_tux.png" alt="Awesome Embedded Linux"></div>
 
